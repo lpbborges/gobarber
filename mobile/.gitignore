@@ -29,6 +29,9 @@ build/
 local.properties
 *.iml
 
+#testing
+/coverage
+
 # Visual Studio Code
 #
 .vscode/
@@ -38,6 +41,8 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
+
+
 
 # BUCK
 buck-out/
